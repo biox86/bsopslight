@@ -4167,7 +4167,7 @@ li.graph {
     background-image: -webkit-linear-gradient(top, #52aae9, #52aae9);
     background-image: -o-linear-gradient(top, #52aae9, #52aae9);
     background-image: linear-gradient(180deg, #EFBCC9, #E897AB)*/
-    background: #90b169;
+    background: #52aae9;
 }
 .center_poll,
 .center_poll:after {
@@ -4281,15 +4281,15 @@ ul .invitetree {
 }
 .log_upload,
 span[style*="color: green;"] {
-    color: #adde82!important
+    color: #f2ad49 !important
 }
 .log_upload a,
 span[style*="color: green;"] a {
-    color: #b8e88e
+    color: #f4bd6e
 }
 .log_edited,
 span[style*="color: blue;"] {
-    color: #a3c27e!important
+    color: #52aae9!important
 }
 .log_edited a,
 span[style*="color: blue;"] a {
